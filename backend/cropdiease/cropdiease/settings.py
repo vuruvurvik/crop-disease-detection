@@ -109,7 +109,7 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-GENAI_API_KEY = "AIzaSyCssyAp8vTrfbBJXpMfqnuzqLVpXtthYUY"
+GENAI_API_KEY = "REPLACE_WITH_YOUR_API_KEY"
 # Internationalization
 # https://docs.djangoproject.com/en/3.2/topics/i18n/
 
