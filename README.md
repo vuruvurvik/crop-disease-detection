@@ -81,8 +81,7 @@ CropDiseaseDetection/
 
 ### **1️⃣ Clone the repository**
 ```bash
-git clone https://github.com/your-username/CropDiseaseDetection.git
-cd CropDiseaseDetection
+git clone https://github.com/vuruvurvik/crop-disease-detection.git
 ```
 
 ### **2️⃣ Setup the backend**
